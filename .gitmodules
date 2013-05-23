@@ -1,0 +1,42 @@
+[submodule "build-essential"]
+	path = build-essential
+	url = git://github.com/opscode-cookbooks/build-essential.git
+[submodule "java"]
+	path = java
+	url = git://github.com/opscode-cookbooks/java.git
+[submodule "postgresql"]
+	path = postgresql
+	url = git://github.com/opscode-cookbooks/postgresql.git
+[submodule "rbenv"]
+	path = rbenv
+	url = git://github.com/fnichol/chef-rbenv.git
+[submodule "ruby_build"]
+	path = ruby_build
+	url = git://github.com/fnichol/chef-ruby_build.git
+[submodule "openssl"]
+	path = openssl
+	url = git://github.com/opscode-cookbooks/openssl.git
+[submodule "redis"]
+	path = redis
+	url = git://github.com/miah/chef-redis.git
+[submodule "redisio"]
+	path = redisio
+	url = git://github.com/brianbianco/redisio.git
+[submodule "ulimit"]
+	path = ulimit
+	url = git://github.com/bmhatfield/chef-ulimit.git
+[submodule "imagemagick"]
+	path = imagemagick
+	url = git://github.com/opscode-cookbooks/imagemagick.git
+[submodule "mysql"]
+	path = mysql
+	url = git://github.com/opscode-cookbooks/mysql.git
+[submodule "curl"]
+	path = curl
+	url = git://github.com/phlipper/chef-curl.git
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = git://github.com/elasticsearch/cookbook-elasticsearch.git
+[submodule "ark"]
+	path = ark
+	url = git://github.com/bryanwb/chef-ark.git
