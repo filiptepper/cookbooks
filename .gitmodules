@@ -40,3 +40,9 @@
 [submodule "ark"]
 	path = ark
 	url = git://github.com/bryanwb/chef-ark.git
+[submodule "libqt4"]
+	path = libqt4
+	url = git://github.com/phlipper/chef-libqt4.git
+[submodule "cmake"]
+	path = cmake
+	url = git://github.com/phlipper/chef-cmake.git
